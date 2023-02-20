@@ -16,7 +16,7 @@ int main(int argc, char* argv[])
 {
     GtkWidget *win;
     WebKitWebView *web;
-    gchar * url = "http://www.google.fr/";
+    gchar * url = "http://127.0.0.1:9090/";
  
     gtk_init(&argc, &argv);
 
